@@ -732,7 +732,7 @@ html:before{
      top:214px;
      left:84px;
 }
-/* CSS ZMIANA GRAFIK(POZOSTA£E) */
+/* CSS ZMIANA GRAFIK(POZOSTALE) */
  #recipes {
      background-image: url(https://i.imgur.com/uRhfI3A.png);
 }
@@ -840,7 +840,7 @@ html:before{
  .skillbox{
      background-image:url(https://i.imgur.com/qJLodqs.png);
 }
-/* CSS ZMIANY PO?O?ENIA, STYLI ETC. */
+/* CSS ZMIANY POLOZENIA, STYLI ETC. */
  .q_kill{
      font: 13px "Lato", sans-serif;
      color: #CC0033;
