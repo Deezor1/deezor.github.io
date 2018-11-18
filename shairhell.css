@@ -176,7 +176,7 @@ html:before{
  #tip, #tip.t_item, #tip.t_npc, #tip.t_other{
         background: #000000c4;
 	border: 1px solid #597018;
-	border-color: #597018;
+	border-color: red;
 	font: 11px Lato, sans-serif;
         border-radius: 10px;
 	box-shadow: 0 0 30px black;
@@ -257,7 +257,7 @@ html:before{
      border: 1px outset red;
 }
  #recipes .choose-item-type, #recipes .choose-prof {
-     color: #5B7019;
+     color: red;
 }
  #hmenu{
      border: 4px double black;
@@ -284,7 +284,7 @@ html:before{
 }
  #alert div.mAlertInputContainer input[name="mAlertInput"], #alert div.mAlertInputContainer .bRight, #alert div.mAlertInputContainer .bLeft{
      background-image: url(https://i.imgur.com/WEWpzXx.png);
-     color: #728c20;
+     color: red;
 }
  .ab5{
      background-image: url(https://i.imgur.com/gZM2eiE.png);
@@ -325,7 +325,7 @@ html:before{
      background-color: transparent;
 }
  #newmail TABLE TD{
-     color: #5B7019;
+     color: red;
 }
  #inbox .mhead, hv, #inbox a, #inbox .mailnick.special{
      color: #CC9900;
@@ -346,12 +346,12 @@ html:before{
      background-color: #10141C;
      font: 12px "Lato", sans-serif;
      color: #5B7019;
-     border: 1px solid #5b7019;
+     border: 1px solid red;
      background: #10141C;
 }
  #inbox, #inbox .onemail{
      background-image: url(https://i.imgur.com/lXCRHki.png) !important;
-     color: #5B7019;
+     color: red;
 }
 #clanbox .clan-skills-content .scroll-wrapper .scroll-pane .one-clan-skill{
      background: rgba(91, 84, 84, 0.31);
@@ -372,7 +372,7 @@ html:before{
  #auctions .ahitem, #ah_filter, #auctions .redback, #auctions TH, #auctions TD{
      background-color: #10141C;
      font: 12px "Lato", sans-serif;
-     color: #5B7019;
+     color: red;
      background: #10141C;
 }
  #auctions .even TD{
@@ -393,12 +393,12 @@ html:before{
      background-image: url(https://i.imgur.com/DpJ5yBm.png);
 }
  #depo-sections .depoUpgrade{
-     background-color: #070;
+     background-color: red;
      height: 22px;
      width: 18px;
 }
  #depo-sections .d-movebar{
-     background-color: #5b7019;
+     background-color: red;
      border: 1px solid gold;
      color: gold;
 }
@@ -409,7 +409,7 @@ html:before{
      background-image: url(https://i.imgur.com/rraN8p1.png);
 }
  #strength-increase, #dexternity-increase, #intelect-increase{
-     color: #5b7019;
+     color: red;
      font: 14px "Lato", sans-serif;
 }
  #abpoints{
@@ -420,7 +420,7 @@ html:before{
      background-image: url(https://i.imgur.com/j7lMmHV.png);
 }
  #matchmaking-summary .header-text{
-     color: #5b7019;
+     color: red;
      left: 10px;
      top: 10px;
 }
@@ -455,19 +455,19 @@ html:before{
      border: 1px solid #353e32;
 }
  .MM-table-container{
-     color: #799424
+     color: red;
 }
  .MM-dialog .gfont{
-     color: #759217;
+     color: red;
 }
  .MM-dialog .gfont:before{
-     color: #83a711;
+     color: red;
 }
  .MM-dialog .gfont:after{
-     color: #799a11;
+     color: red;
 }
  .progress-wnd .left-side .char-info{
-     color: #5b7019;
+     color: red;
 }
  .progress-wnd .left-side .char-prof{
      color: gold;
@@ -498,7 +498,7 @@ html:before{
 }
  .party_member, #party B{
      font: 12px "Lato", sans-serif;
-     color: #80983a;
+     color: red;
 }
  #party>p>div:last-of-type{
      color: white !important;
@@ -529,12 +529,12 @@ html:before{
 }
  .extraStat-group-title{
      font: 14px "Lato", sans-serif;
-     color:#c5a470;
+     color: #c5a470;
      border-bottom: 1px solid #927f7f;
 }
  .extraStat-group{
      margin-left: 12px;
-     color:#cccccc;
+     color: #cccccc;
      padding: 5px 0px;
      font: 12px "Lato", sans-serif;
 }
@@ -591,7 +591,7 @@ html:before{
      width:180px;
      height:512px;
      background: #000000e0;
-     background: linear-gradient(to right, #000000e0, #182111cf);
+     background: linear-gradient(to right, #000000e0, red);
      transition: transform 700ms ease-in-out;
      box-shadow: -3px 0px 5px 1px rgba(0, 0, 0, 0.6);
 }
@@ -634,36 +634,36 @@ html:before{
 }
  @-webkit-keyframes flash{
      0% {
-         box-shadow: inset 0 0 5px 6px #484608b8;
+         box-shadow: inset 0 0 5px 6px #a00000;
     }
      25% {
-         box-shadow: inset 0 0 5px 6px #5f5c08b8;
+         box-shadow: inset 0 0 5px 6px #8c0000;
     }
      50% {
-         box-shadow: inset 0 0 5px 6px #444209b8;
+         box-shadow: inset 0 0 5px 6px #700000;
     }
      75% {
-         box-shadow: inset 0 0 5px 6px #252408b8;
+         box-shadow: inset 0 0 5px 6px #590000;
     }
      100% {
-         box-shadow: inset 0 0 5px 6px #3c3b17b8;
+         box-shadow: inset 0 0 5px 6px #300000;
     }
 }
  @keyframes flash{
      0% {
-         box-shadow: inset 0 0 5px 6px #484608b8;
+         box-shadow: inset 0 0 5px 6px #a00000;
     }
      25% {
-         box-shadow: inset 0 0 5px 6px #5f5c08b8;
+         box-shadow: inset 0 0 5px 6px #8c0000;
     }
      50% {
-         box-shadow: inset 0 0 5px 6px #444209b8;
+         box-shadow: inset 0 0 5px 6px #700000;
     }
      75% {
-         box-shadow: inset 0 0 5px 6px #252408b8;
+         box-shadow: inset 0 0 5px 6px #590000;
     }
      100% {
-         box-shadow: inset 0 0 5px 6px #3c3b17b8;
+         box-shadow: inset 0 0 5px 6px #300000;
     }
 }
  .sepia {
@@ -671,7 +671,7 @@ html:before{
      border-radius: 5px;
      display: inline-table;
      margin: 2px;
-     box-shadow: inset 0 0 5px 6px #484608b8;
+     box-shadow: inset 0 0 5px 6px #8c0000;
      -webkit-animation: 2s flash infinite alternate;
      animation: 2s flash infinite alternate;
 }
@@ -818,7 +818,7 @@ html:before{
      background-image: url(https://i.imgur.com/62VY86t.png);
 }
  #cfg_options DIV, .my-checkbox, .my-checkbox.active{
-     color: #5B7019;
+     color: red;
      font: 13px "Lato", sans-serif;
      background-image: url(https://i.imgur.com/YfPtseg.png);
 }
@@ -898,19 +898,19 @@ html:before{
 }
  #clanbox BUTTON{
      font: 10px "Lato", sans-serif;
-     color:#5B7019;
+     color:red;
 }
  #clanbox{
      font: 11px "Lato", sans-serif;
-     color:#5B7019;
+     color:red;
 }
  #clanbox span.nick{
      font: 13px "Lato", sans-serif;
-     color:#5B7019;
+     color:red;
 }
  .clan TD{
      font: 14px "Lato", sans-serif;
-     color:#5B7019;
+     color:red;
 }
  #botloc{
      top:519px;
@@ -922,7 +922,7 @@ html:before{
 }
  #nick{
      color: white;
-     text-shadow: 0px 0px 8px #006400, 0px 0px 8px #006400, 0px 0px 8px #006400;
+     text-shadow: 0px 0px 8px #640000, 0px 0px 8px #640000, 0px 0px 8px #640000;
      font-family:"Lato",sans-serif;
 }
  .a2 {
@@ -936,7 +936,7 @@ html:before{
      left: 310px;
 }
  .skills_tab_text {
-     color: #5B7019;
+     color: red;
      font: 12px "Lato", sans-serif;
 }
  .skillbox_lvl{
@@ -944,7 +944,7 @@ html:before{
      font: 10px "Lato", sans-serif;
 }
  #clanbox .clanlist B{
-     color: #5B7019;
+     color: red;
      font: 14px "Lato", sans-serif;
      font-weight: 700;
 }
@@ -975,19 +975,19 @@ html:before{
 }
  textarea#battle_for_forum{
      background-color: #10141C;
-     color: #5B7019;
+     color: red;
      border-color: rgb(16, 20, 28);
 }
  #addonDetails{
      background-color: #13171F;
 }
  #addons h1{
-     color: #5B7019;
+     color: red;
      font: 20px "Lato", sans-serif;
      font-weight: 700;
 }
  #addons *, .search, #recipes .start-lvl, #recipes .stop-lvl{
-     color: #5B7019;
+     color: red;
      font: 14px "Lato", sans-serif;
 }
  #recipes .recipe-header{
