@@ -930,7 +930,7 @@ html:before{
      font: 14px "Lato", sans-serif;
 }
  #skillcount {
-     color: #5B7019;
+     color: red;
      font: 16px "Lato", sans-serif;
      top: 9px;
      left: 310px;
