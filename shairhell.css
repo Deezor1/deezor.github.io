@@ -190,7 +190,7 @@ html:before{
      height: 538px;
      right: -37px;
      background: #000000ad;
-     border: 1px solid #4a541a;
+     border: 1px solid red;
      border-left: none;
      border-top-right-radius: 1em;
      border-bottom-right-radius: 1em;
