@@ -313,6 +313,7 @@ html:before{
 }
  #loot-preview{
      background-image: url(https://i.imgur.com/WFdmvxC.png);
+     color: red;
 }
  #match-details-wnd .match-details-title{
      background-image: url(https://i.imgur.com/w7kYRNp.png);
