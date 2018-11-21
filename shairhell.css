@@ -981,7 +981,7 @@ html:before{
  #addonDetails{
      background-color: #420000;
 }
-.author{
+#addons .author{
 	color: red;
 }
  #addons h1{
