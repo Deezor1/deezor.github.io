@@ -334,7 +334,7 @@ html:before{
      display: none;
 }
  #inbox .onemail{
-     border-top: 3px double #5b7019;
+     border-top: 3px double red;
 }
  #shop_close, #shop_accept, #match-details-wnd .close-match-details-wrapper .close-match-details{
      background-image: url(https://i.imgur.com/52dUPmM.png);
@@ -345,7 +345,7 @@ html:before{
  #mailmsg, #inbox INPUT, .mailitem{
      background-color: #10141C;
      font: 12px "Lato", sans-serif;
-     color: #5B7019;
+     color: red;
      border: 1px solid red;
      background: #10141C;
 }
@@ -616,7 +616,7 @@ html:before{
     margin: 3px;
 }
 .shairVersions div.active {
-    box-shadow: 0px 0px 8px 1px #5b7019;
+    box-shadow: 0px 0px 8px 1px red;
 }
  .expAnimation{
      position: absolute;
@@ -926,7 +926,7 @@ html:before{
      font-family:"Lato",sans-serif;
 }
  .a2 {
-     color: #5B7019;
+     color: red;
      font: 14px "Lato", sans-serif;
 }
  #skillcount {
