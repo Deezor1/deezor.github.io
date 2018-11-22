@@ -843,6 +843,9 @@ html:before{
 table>tbody>tr.hover:hover {
 	background: #640000;
 }
+.clan-find-header-0, .clan.part-0, .clan-find-header-1, .clan.part-1, .clan-find-header-2, .clan.part-2{
+	color: red;
+}
  #lagmeter{
      background-image:url(https://i.imgur.com/InYnAMm.png);
 }
