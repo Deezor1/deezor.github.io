@@ -526,9 +526,6 @@ html:before{
  .MM-big-button.MM-stat-button, .MM-dialog-space .warning-points, .MM-button .content, .MM-button .left, .MM-button .right, .MM-big-button.MM-fight-button, .MM-big-button.MM-rank-button, .MM-queue-button, .MM-big-button MM-eq-button, .MM-eq-button, .MM-eq-button.selected{
      background-image: url(https://i.imgur.com/bKUuJ3s.png);
 }
-.MM-button .right{
-     width: 10px;
-}
  #pre-premium-panel, #chests-window, #matchmaking-summary{
      background-image: url(https://i.imgur.com/bKUuJ3s.png);
 }
@@ -841,7 +838,7 @@ html:before{
      background-image: url(https://i.imgur.com/dHVwMfA.png);
 }
  #clanbox, #inmap, #inmap2wrapper, #addons{
-     background-image: url(https://i.imgur.com/Jg6Idwy.png);
+     background: white url(https://i.imgur.com/Jg6Idwy.png);
 }
  #lagmeter{
      background-image:url(https://i.imgur.com/InYnAMm.png);
