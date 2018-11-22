@@ -849,6 +849,14 @@ table>tbody>tr.hover:hover {
 #clanFilter .clan-list-find-panel{
      background-image: url(https://i.imgur.com/jT0qvBe.png);
 }
+.one-clan-atribute .input-wrapper select, .one-clan-atribute .input-wrapper input{
+     border: 1px red solid;
+     color: red;
+     background-color: rgba(0, 0, 0, .5);
+}
+.one-clan-atribute .input-wrapper select, .one-clan-atribute .input-wrapper input option{
+     background-color: black;
+}
 .b_buttons{
      background-image: url(https://i.imgur.com/o7QwpXl.png);
 }
