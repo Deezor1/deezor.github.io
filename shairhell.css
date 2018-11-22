@@ -745,6 +745,23 @@ html:before{
  #addonspanel{
      background-image: url(https://i.imgur.com/bg4itpk.png);
 }
+#addons .author a{
+     color: red;
+}
+#addonDetails textarea{
+     border: 1px red solid;
+     background-color: rgba(0,0,0,0.5);
+}
+#addons .menu_element:hover, #addons .menu_element.active{
+     background-color: rgba(0,0,0,0.4);
+}
+#addon_search_div input{
+     background-color: #500000;
+     border: 1px solid red;
+}
+#addons .image{
+     background: rgba(0,0,0,0.4) 50% 50% no-repeat;
+}
  DIV#pvpmode, #pvpmode{
      background-image: url(https://i.imgur.com/8SaDUeQ.png);
      top:518px;
