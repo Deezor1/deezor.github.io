@@ -1034,6 +1034,9 @@ DIV#b_news.notif:hover{
  #addonDetails{
      background-color: #420000;
 }
+.extMgrLinksList div a {
+     background-color: rgba(0,0,0,0.4);
+}
  #addons h1{
      color: red;
      font: 20px "Lato", sans-serif;
