@@ -838,7 +838,10 @@ html:before{
      background-image: url(https://i.imgur.com/dHVwMfA.png);
 }
  #clanbox, #inmap, #inmap2wrapper, #addons{
-     background: white url(https://i.imgur.com/Jg6Idwy.png);
+     background: url(https://i.imgur.com/Jg6Idwy.png);
+}
+.hover{
+	background-color: red;	
 }
  #lagmeter{
      background-image:url(https://i.imgur.com/InYnAMm.png);
