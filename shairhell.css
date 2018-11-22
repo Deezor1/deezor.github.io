@@ -856,7 +856,7 @@ table>tbody>tr.hover:hover {
 }
 .one-clan-atribute .input-wrapper select, .one-clan-atribute .input-wrapper input option{
      border: 1px red solid;
-     background-color: rgba(0, 0, 0, .5);
+     background-color: black;
 }
 .b_buttons{
      background-image: url(https://i.imgur.com/o7QwpXl.png);
