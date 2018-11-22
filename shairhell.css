@@ -855,10 +855,10 @@ table>tbody>tr.hover:hover {
 .b_buttons:hover{
      filter: brightness(150%);
 }
-#newsNotif{
+DIV#b_news.notif{
      background-image: url(https://i.imgur.com/jWkUHA0.gif);
 }
-#newsNotifHover{
+DIV#b_news.notif:hover{
      background-image: url(https://i.imgur.com/jWkUHA0.gif);
      filter: brightness(150%);
 }
