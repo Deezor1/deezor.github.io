@@ -970,6 +970,9 @@ html:before{
  #battle{
      font-family:"Lato",sans-serif;
 }
+.news-panel{
+	background: url(https://i.imgur.com/n5zHaQV.png);
+}
  #buttons DIV:hover, #logoutbut:hover, #premiumbut:hover, .hightlight:hover{
      filter: brightness(150%);
      -webkit-filter: brightness(150%);
