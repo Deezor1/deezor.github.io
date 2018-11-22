@@ -841,13 +841,19 @@ html:before{
      background: url(https://i.imgur.com/Jg6Idwy.png);
 }
 table>tbody>tr.hover:hover {
-	background: #640000;
+     background: #640000;
 }
 #clanFilter{
-	color: red;
+     color: red;
 }
 #clanFilter .clan-list-find-panel{
-	background-image: url(https://i.imgur.com/jT0qvBe.png);
+     background-image: url(https://i.imgur.com/jT0qvBe.png);
+}
+.b_buttons{
+     background-image: url(https://i.imgur.com/o7QwpXl.png);
+}
+.b_buttons:hover{
+     filter: brightness(150%);
 }
  #lagmeter{
      background-image:url(https://i.imgur.com/InYnAMm.png);
