@@ -855,6 +855,13 @@ table>tbody>tr.hover:hover {
 .b_buttons:hover{
      filter: brightness(150%);
 }
+#newsNotif{
+     background-image: url(https://i.imgur.com/jWkUHA0.gif);
+}
+#newsNotifHover{
+     background-image: url(https://i.imgur.com/jWkUHA0.gif);
+     filter: brightness(150%);
+}
  #lagmeter{
      background-image:url(https://i.imgur.com/InYnAMm.png);
 }
