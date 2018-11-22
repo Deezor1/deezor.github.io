@@ -108,19 +108,19 @@
     background: url(https://i.imgur.com/S1a7s3l.png) !important;
 }
 .SI-button .left{
-    background:url(https://i.imgur.com/YvDv9hv.png);
+    background:url(https://i.imgur.com/i9k92MH.png);
     background-position: -443px -229px;
 }
 .SI-button .label{
-    background:url(https://i.imgur.com/YvDv9hv.png);
+    background:url(https://i.imgur.com/i9k92MH.png);
     background-position: -463px -229px;
 }
 .SI-button .right{
-    background:url(https://i.imgur.com/YvDv9hv.png);
+    background:url(https://i.imgur.com/i9k92MH.png);
     background-position: -622px -229px;
 }
 #for-you-plug{
-    background:url(https://i.imgur.com/YvDv9hv.png) -0px -942px;
+    background:url(https://i.imgur.com/i9k92MH.png) -0px -942px;
 }
 .shair-item-slot small{
     opacity: 0.5;
@@ -477,7 +477,7 @@ html:before{
      background-image: url(https://i.imgur.com/5XpqOqH.png);
 }
  .MM-dialog-header-txt, .MM-big-button-header{
-     background-image: url(https://i.imgur.com/YvDv9hv.png);
+     background-image: url(https://i.imgur.com/i9k92MH.png);
 }
  .MM-dialog{
      -moz-border-image: url(https://i.imgur.com/rWdHbji.png) 51 64 24 57 repeat;
@@ -523,10 +523,10 @@ html:before{
      background-image: url(https://i.imgur.com/0BkBTZf.png);
 }
  .MM-big-button.MM-stat-button, .MM-big-button.MM-fight-button, .MM-big-button.MM-rank-button, .MM-queue-button, .MM-big-button MM-eq-button, .MM-eq-button, .MM-eq-button.selected{
-     background-image: url(https://i.imgur.com/YvDv9hv.png);
+     background-image: url(https://i.imgur.com/i9k92MH.png);
 }
  #pre-premium-panel, #chests-window, #matchmaking-summary{
-     background-image: url(https://i.imgur.com/YvDv9hv.png);
+     background-image: url(https://i.imgur.com/i9k92MH.png);
 }
  .extraStat-group-title{
      font: 14px "Lato", sans-serif;
