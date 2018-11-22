@@ -840,8 +840,8 @@ html:before{
  #clanbox, #inmap, #inmap2wrapper, #addons{
      background: url(https://i.imgur.com/Jg6Idwy.png);
 }
-.hover{
-	background-color: red;	
+table>tbody>tr.hover:hover {
+	background: #640000;
 }
  #lagmeter{
      background-image:url(https://i.imgur.com/InYnAMm.png);
