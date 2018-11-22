@@ -523,7 +523,7 @@ html:before{
  #match-details-wnd{
      background-image: url(https://i.imgur.com/0BkBTZf.png);
 }
- .MM-big-button.MM-stat-button, .MM-button.content, .MM-button.left, .MM-button.right, .MM-big-button.MM-fight-button, .MM-big-button.MM-rank-button, .MM-queue-button, .MM-big-button MM-eq-button, .MM-eq-button, .MM-eq-button.selected{
+ .MM-big-button.MM-stat-button, .MM-dialog-space .warning-points, .MM-button .content, .MM-button .left, .MM-button .right, .MM-big-button.MM-fight-button, .MM-big-button.MM-rank-button, .MM-queue-button, .MM-big-button MM-eq-button, .MM-eq-button, .MM-eq-button.selected{
      background-image: url(https://i.imgur.com/i9k92MH.png);
 }
  #pre-premium-panel, #chests-window, #matchmaking-summary{
