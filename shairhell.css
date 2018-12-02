@@ -894,6 +894,10 @@ DIV#b_news.notif:hover{
  .skillbox{
      background-image:url(https://i.imgur.com/qJLodqs.png);
 }
+
+#new_event_calendar{
+     display: none !important;
+}
 /* CSS ZMIANY PO?O?ENIA, STYLI ETC. */
  .q_kill{
      font: 13px "Lato", sans-serif;
