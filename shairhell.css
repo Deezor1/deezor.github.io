@@ -1110,6 +1110,9 @@ DIV#b_news.notif:hover{
  #b_pvp.active{
      background-position-x: 0px !important;
 }
+#config_bg_filler[style]{
+    background-image: url(https://i.imgur.com/Yd7eCEe.png) !important;
+}
 #right-icons a[data-icon="0"]{
     background-image: url(https://i.imgur.com/0qURNkc.png);
 }
