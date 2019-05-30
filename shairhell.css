@@ -499,7 +499,7 @@ html:before{
      background-image: url(https://i.imgur.com/XyZAMhs.png);
 }
  #party{
-     background-image: url(https://i.imgur.com/tErWBYV.png);
+     background-image: url(https://i.imgur.com/tErWBYV.png) !important;
 }
  .party_member, #party B{
      font: 12px "Lato", sans-serif;
