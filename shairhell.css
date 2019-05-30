@@ -308,6 +308,9 @@ html:before{
 #loots {
     border-image: url(https://i.imgur.com/WJ0OlHT.png) 41 32 17 49 fill round;
 }
+#loots TD{
+    border: 1px solid red;
+}
  #loots_l, #loots_r, #loots .loot, #loots B.yes, #loots B.no, #loots_counter, #loots_button, #loots B.need{
      background-image: url(https://i.imgur.com/nna9v63.png);
      background-color: transparent;
