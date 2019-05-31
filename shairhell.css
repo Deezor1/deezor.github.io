@@ -749,6 +749,9 @@ html:before{
  #recipes {
      background-image: url(https://i.imgur.com/uRhfI3A.png);
 }
+#recipes .receipe-list .recipe-group .card-graphic{
+     border-image: url(https://i.imgur.com/JX4NjVu.png) 5 17 fill repeat stretch;
+}
  #addonspanel{
      background-image: url(https://i.imgur.com/bg4itpk.png);
 }
