@@ -348,11 +348,11 @@ html:before{
      border-bottom: none;
 }
  #mailmsg, #inbox INPUT, .mailitem{
-     background-color: #10141C;
+     background-color: #250101;
      font: 12px "Lato", sans-serif;
      color: red;
      border: 1px solid red;
-     background: #10141C;
+     background: #250101;
 }
  #inbox, #inbox .onemail{
      background-image: url(https://i.imgur.com/lXCRHki.png) !important;
@@ -365,7 +365,7 @@ html:before{
      background-image: url(https://i.imgur.com/qbJhvXF.png);
 }
  #auctions .even TD{
-     background-color: #10141C;
+     background-color: #250101;
      font: 12px "Lato", sans-serif;
 }
  #mails{
@@ -375,13 +375,13 @@ html:before{
      background-image: url(https://i.imgur.com/v6zHrpb.png) !important;
 }
  #auctions .ahitem, #ah_filter, #auctions .redback, #auctions TH, #auctions TD{
-     background-color: #10141C;
+     background-color: #250101;
      font: 12px "Lato", sans-serif;
      color: red;
-     background: #10141C;
+     background: #250101;
 }
  #auctions .even TD{
-     background-color: #10141C;
+     background-color: #250101;
      font: 12px "Lato", sans-serif;
 }
  #auctions TD.unique{
@@ -443,7 +443,7 @@ html:before{
      width: 48px;
 }
  .MM-paginator .inptxt {
-     background: #10141C;
+     background: #250101;
      color: #434343;
      border: none;
 }
@@ -951,7 +951,7 @@ DIV#b_news.notif:hover{
      font: 11px Arial;
 }
  .treasury > div:first-of-type{
-     background-color: #10141C !important;
+     background-color: #250101 !important;
 }
  #clanbox BUTTON{
      font: 10px "Lato", sans-serif;
