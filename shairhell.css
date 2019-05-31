@@ -1063,6 +1063,9 @@ DIV#b_news.notif:hover{
      font: 14px "Lato", sans-serif;
      border: 1px solid #830808;
 }
+#recipes .start-lvl{
+     left: 27px !important;
+}
 #recipes .recipe-list-search .search{
      border: 1px solid #830808 !important;
      width: 84px !important;
