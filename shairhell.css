@@ -748,6 +748,7 @@ html:before{
 /* CSS ZMIANA GRAFIK(POZOSTAŁE) */
  #recipes {
      background-image: url(https://i.imgur.com/uRhfI3A.png);
+     color: red !important;
 }
 #recipes .receipe-list .recipe-group .card-graphic{
      border-image: url(https://i.imgur.com/JX4NjVu.png) 5 17 fill repeat stretch;
