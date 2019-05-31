@@ -1057,6 +1057,8 @@ DIV#b_news.notif:hover{
  #addons *, .search, #recipes .start-lvl, #recipes .stop-lvl{
      color: red;
      font: 14px "Lato", sans-serif;
+}
+.search, #recipes .start-lvl, #recipes .stop-lvl{
      border: 1px solid #830808;
 }
 #recipes .start-lvl{
