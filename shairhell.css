@@ -259,6 +259,7 @@ html:before{
 }
  #recipes .choose-item-type, #recipes .choose-prof {
      color: red;
+     border: 1px solid #830808;
 }
  #hmenu{
      border: 4px double black;
@@ -1060,6 +1061,10 @@ DIV#b_news.notif:hover{
  #addons *, .search, #recipes .start-lvl, #recipes .stop-lvl{
      color: red;
      font: 14px "Lato", sans-serif;
+     border: 1px solid #830808;
+}
+#recipes .recipe-list-search .search{
+     border: 1px solid #830808 !important;
 }
  #recipes .recipe-header{
      border-bottom: 0px;
