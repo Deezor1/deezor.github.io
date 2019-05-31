@@ -388,6 +388,9 @@ html:before{
      color: gold;
      font: 12px "Lato", sans-serif;
 }
+ #auctions TD INPUT{
+     background: #520000;
+}
  #auctions{
      background-image: url(https://i.imgur.com/Wwez0PF.png);
 }
