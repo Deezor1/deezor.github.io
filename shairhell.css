@@ -257,10 +257,6 @@ html:before{
      color: #c52213;
      border: 1px outset red;
 }
- #recipes .choose-item-type, #recipes .choose-prof {
-     color: red;
-     border: 1px solid #830808;
-}
  #hmenu{
      border: 4px double black;
 }
@@ -1072,6 +1068,16 @@ DIV#b_news.notif:hover{
 #recipes .recipe-list-search .search{
      border: 1px solid #830808 !important;
      width: 84px !important;
+}
+#recipes .choose-item-type, #recipes .choose-prof {
+     color: red;
+     border: 1px solid #830808;
+}
+#recipes .choose-prof{
+     top: 90px !important;
+}
+#recipes .choose-item-type{
+     top: 68px !important;
 }
  #recipes .recipe-header{
      border-bottom: 0px;
