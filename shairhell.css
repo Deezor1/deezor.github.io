@@ -1114,7 +1114,7 @@ DIV#b_news.notif:hover{
      background-position-x: 0px !important;
 }
 #chattxt .chnick, #chattxt U {
-    text-shadow: 0px 0px 8px red, 0px 0px 8px red, 0px 0px 8px red;
+    text-shadow: 0px 0px 8px red, 0px 0px 8px red, 0px 0px 8px red !important;
 }
 #config_bg_filler[style]{
     background-image: url(https://i.imgur.com/Yd7eCEe.png) !important;
