@@ -1065,6 +1065,7 @@ DIV#b_news.notif:hover{
 }
 #recipes .recipe-list-search .search{
      border: 1px solid #830808 !important;
+     width: 84px !important;
 }
  #recipes .recipe-header{
      border-bottom: 0px;
