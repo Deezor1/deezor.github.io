@@ -398,21 +398,27 @@ html:before{
  #loot-preview .close-but:hover{
      background-image: url(https://i.imgur.com/DpJ5yBm.png);
 }
- #depo-sections .depoUpgrade{
-     background-color: red;
-     height: 22px;
-     width: 18px;
-}
- #depo-sections .d-movebar{
-     background-color: red;
-     border: 1px solid gold;
-     color: gold;
-}
  #depo BUTTON{
      background-image: url(https://i.imgur.com/XzrQsZX.png);
 }
  #depo, #depo-title{
      background-image: url(https://i.imgur.com/rraN8p1.png);
+}
+#depo-sections .d-section.active{
+     background-color: #500000;
+}
+#depo-sections .d-section{
+     background: #500000;
+     border: 1px solid red;
+}
+#depo-sections .d-movebar{
+     background-color: #500000;
+     border: 1px solid red;
+     color: gold;
+}
+ #depo-sections .depoUpgrade{
+     background-color: #500000;
+     border: 1px solid red;
 }
  #strength-increase, #dexternity-increase, #intelect-increase{
      color: red;
