@@ -1152,6 +1152,8 @@ DIV#b_news.notif:hover{
 }
  #b_pvp.active{
      background-position-x: 0px !important;
+     -webkit-filter: drop-shadow(0px 0px 4px red);
+     filter: drop-shadow(0px 0px 4px red);
 }
 #chattxt .chnick, #chattxt U {
     text-shadow: 0px 0px 8px red, 0px 0px 8px red, 0px 0px 8px red !important;
