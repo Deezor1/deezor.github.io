@@ -499,8 +499,11 @@ html:before{
  #hieronim_button{
      background: url(https://i.imgur.com/De95I1w.png) 0px -94px;
 }
- #gold_shop_banner, #sl_shop_banner{
+ #sl_shop_banner{
      background: url(https://i.imgur.com/De95I1w.png);	 
+}
+ #gold_shop_banner{
+     background: url(https://i.imgur.com/De95I1w.png) 0px -54px;
 }
  #lehim_button{
      background: url(https://i.imgur.com/De95I1w.png) 0px -127px;
