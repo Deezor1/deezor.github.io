@@ -497,13 +497,13 @@ html:before{
      border-image: url(https://i.imgur.com/rWdHbji.png) 51 64 24 57 fill repeat;
 }
  #hieronim_button{
-     background: url(https://i.imgur.com/De95I1w.png) 0px -94px !important;
+     background: url(https://i.imgur.com/De95I1w.png) 0px -94px;
 }
  #gold_shop_banner, #sl_shop_banner{
-     background: url(https://i.imgur.com/De95I1w.png) !important;	 
+     background: url(https://i.imgur.com/De95I1w.png);	 
 }
  #lehim_button{
-     background: url(https://i.imgur.com/De95I1w.png) 0px -127px !important;
+     background: url(https://i.imgur.com/De95I1w.png) 0px -127px;
 }
  #shop{
      background-image: url(https://i.imgur.com/FvoJJxS.png);
