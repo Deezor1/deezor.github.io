@@ -496,8 +496,8 @@ html:before{
      -o-border-image: url(https://i.imgur.com/rWdHbji.png) 51 64 24 57 repeat;
      border-image: url(https://i.imgur.com/rWdHbji.png) 51 64 24 57 fill repeat;
 }
- #gold_shop_banner, #sl_shop_banner{
-     background-image: url(https://i.imgur.com/Da2PFeI.png);
+ #gold_shop_banner, #sl_shop_banner, #lehim_button, #hieronim_button{
+     background: url(https://i.imgur.com/De95I1w.png) !important;
 }
  #shop{
      background-image: url(https://i.imgur.com/FvoJJxS.png);
