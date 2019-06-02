@@ -1093,6 +1093,9 @@ DIV#b_news.notif:hover{
  #recipes .recipe-header{
      border-bottom: 0px;
 }
+.recipe-reagent .reagent-wrapper .item-reagent-wrapper .item-reagent .item, .recipe-reagent .reagent-wrapper .item-reagent-wrapper .item-reagent .item img{
+     position: relative !important;
+}
 #tip-o1, #tip-o2, DIV#b_matchmaking, #dlgtitle, #tutorial,#leorn1,#leorn2,#b_help,#stats,#base3,.lt-hor,.lt-ver,.ld-hor,.ld-ver,.rt-hor,.rt-ver,.rd-hor,.rd-ver, #b_config{
      display:none !important;
 }
