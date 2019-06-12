@@ -175,7 +175,7 @@ html:before{
      width: 270px;
 }
  #tip, #tip.t_item, #tip.t_npc, #tip.t_other{
-        background: black;
+        background: #000000c2;
 	border: 1px solid #597018;
 	border-color: red;
 	font: 11px Lato, sans-serif;
