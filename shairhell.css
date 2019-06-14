@@ -1159,29 +1159,12 @@ DIV#b_news.notif:hover{
  #b_pvp:hover{
      background-position-y: 22px !important;
 }
- @keyframes pulse{
-     0%{
-	   filter: drop-shadow(0px 0px 4px red);  
-	   -webkit-filter: drop-shadow(0px 0px 4px red);
-     	   -moz-filter: drop-shadow(0px 0px 4px red);
-           -o-filter: drop-shadow(0px 0px 4px red);
-     }
-     50%{
-	   filter: none;  
-	   -webkit-filter: none;
-     	   -moz-filter: none;
-           -o-filter: none;
-     }
-     100%{
-	   filter: drop-shadow(0px 0px 4px red);  
-	   -webkit-filter: drop-shadow(0px 0px 4px red);
-     	   -moz-filter: drop-shadow(0px 0px 4px red);
-           -o-filter: drop-shadow(0px 0px 4px red); 
-     }
-}
  #b_pvp.active{
      background-position-x: 0px !important;
-     animation: pulse 4s infinite linear;
+     filter: drop-shadow(0px 0px 4px red);  
+     -webkit-filter: drop-shadow(0px 0px 4px red);
+     -moz-filter: drop-shadow(0px 0px 4px red);
+     -o-filter: drop-shadow(0px 0px 4px red); 
 }
 #chattxt .chnick, #chattxt U {
     text-shadow: 0px 0px 8px red, 0px 0px 8px red, 0px 0px 8px red !important;
