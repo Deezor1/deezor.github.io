@@ -516,6 +516,7 @@ html:before{
 }
  #party{
      background: transparent url(https://i.imgur.com/kAhSn2q.png) !important;
+     border-bottom-left-radius: 5px;
 }
  .party_member, #party B{
      font: 12px "Lato", sans-serif;
