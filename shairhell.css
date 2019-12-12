@@ -348,6 +348,9 @@ html:before{
  #inbox .mhead, hv {
      border-bottom: none;
 }
+ #quest-log-window{
+     background-image: url(https://i.imgur.com/mGdm4jv.png);
+ }
  #mailmsg, #inbox INPUT, .mailitem{
      background-color: #250101;
      font: 12px "Lato", sans-serif;
