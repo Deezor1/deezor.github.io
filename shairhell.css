@@ -798,6 +798,9 @@ html:before{
  #clanmenu{
      background-image: url(https://i.imgur.com/43ZZn8F.png);
 }
+#shop_recover_items, #create_new_clan, #create_new_clan:hover {
+     background-image: url(https://i.imgur.com/Q6ApTCN.png);
+}
  #mappanel{
      background-image: url(https://i.imgur.com/99KacPR.png);
 }
