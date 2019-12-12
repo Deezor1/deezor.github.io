@@ -348,8 +348,11 @@ html:before{
  #inbox .mhead, hv {
      border-bottom: none;
 }
- #quest-log-window{
+ #quest-log-window {
      background-image: url(https://i.imgur.com/mGdm4jv.png);
+ }
+ .questlist p {
+     color: red;
  }
  #mailmsg, #inbox INPUT, .mailitem{
      background-color: #250101;
@@ -878,7 +881,7 @@ html:before{
  #pre-premium-panel .close-pre-premium, #recipes .close-but, #chests-window .close-chests-window, #loot-preview .close-but{
      background-image: url(https://i.imgur.com/hxReBnz.png);
 }
- .closebut, .close-but{
+ .closebut, .close-but, #quest-log-window .quest-log-close-but{
      background-image: url(https://i.imgur.com/hxReBnz.png);
      margin: 4px;
 }
