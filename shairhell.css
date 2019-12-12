@@ -177,7 +177,6 @@ html:before{
 .changeClient{
     background-image: url(https://i.imgur.com/cNJsl0a.png);
     width: 93px;
-    bottom: -5px;
 }
  #tip, #tip.t_item, #tip.t_npc, #tip.t_other{
         background: rgba(0, 0, 0, .9);
