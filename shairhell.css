@@ -876,7 +876,7 @@ html:before{
  #cfg_options DIV, .my-checkbox, .my-checkbox.active{
      color: red;
      font: 13px "Lato", sans-serif;
-     //background-image: url(https://i.imgur.com/YfPtseg.png);
+     /*background-image: url(https://i.imgur.com/YfPtseg.png);*/
 }
  #pre-premium-panel .close-pre-premium, #recipes .close-but, #chests-window .close-chests-window, #loot-preview .close-but{
      background-image: url(https://i.imgur.com/hxReBnz.png);
