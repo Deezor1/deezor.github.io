@@ -878,6 +878,9 @@ html:before{
      font: 13px "Lato", sans-serif;
      /*background-image: url(https://i.imgur.com/YfPtseg.png);*/
 }
+ #cfg_options DIV::before{
+  background: url(https://i.imgur.com/YfPtseg.png) no-repeat top left;
+}
  #pre-premium-panel .close-pre-premium, #recipes .close-but, #chests-window .close-chests-window, #loot-preview .close-but{
      background-image: url(https://i.imgur.com/hxReBnz.png);
 }
